@@ -1,4 +1,4 @@
-require 'byebug'
+# require 'byebug'
 require 'faraday'
 require 'json'
 require 'config'
